@@ -3,3 +3,4 @@ seaborn
 flask
 pandas
 Gunicorn
+flask_cors
