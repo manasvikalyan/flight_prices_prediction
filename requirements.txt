@@ -1,0 +1,5 @@
+openpyxl
+seaborn
+flask
+pandas
+Gunicorn
