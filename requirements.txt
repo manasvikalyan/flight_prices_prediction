@@ -4,3 +4,7 @@ flask
 pandas
 Gunicorn
 flask_cors
+scikit-learn
+matplotlib
+numpy
+datetime
